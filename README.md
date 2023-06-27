@@ -5,11 +5,6 @@ This repository contains the code for a computer vision challenge using PyTorch.
 ## Dataset
 The dataset used for this challenge is the Oxford 102 Flowers dataset, which consists of 102 different categories of flowers. The dataset is divided into training, validation, and test sets. The dataset can be downloaded from [here](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).
 
-## Installation
-To run the code, you need to install the required dependencies. You can install them using the following command:
-
-```shell
-!pip install ipywidgets
 
 # Code Overview
 
